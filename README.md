@@ -1,82 +1,47 @@
-
 # Darshan Gada
-Fullstack developer with 5+ years of experience.
+_Full Stack Software developer (5+ years of experience) based in Mumbai, Maharashtra, India_ <br>
 
-## Skills
-| Key  | Value |
-| ------------- | ------------- |
-| Technologies   | _(Proficient)_: PHP, NodeJS, AngularJS _(Familiar)_: ReactJS, Python, Dart |
-| Database  | MySQL, MongoDB, Redis  |
-| Framework  | Laravel, Lumen, Ionic, Django, Next.js, __Flutter__  |
-| CMS  | Wordpress, Shopify, Drupal, Strapi  |
-| DevOps  | Linode, AWS, Docker, Heroku, Vercel  |
-| CI/CD  | Jenkins, CircleCI, Github Actions  |
+[Email](mailto:gadadarshan@gmail.com) / [Website](https://dr5hn.github.io/) / [LinkedIn](https://www.linkedin.com/in/dr5hn/) / [GitHub](https://github.com/dr5hn/) / [Twitter](https://twitter.com/dr5hn/) / [DEV](https://dev.to/dr5hn/)
 
-## Employment (^5 Years)
-__Technical Lead @ Vistaar Digital Communications Pvt. Ltd.__<br/>
-Feb 2020 - Present<br/>
-_A Service based company serving Digital Services to US Clients & Pharma Industries_ (India)
-__Responsibilities:__
-* Leading a team of 5 people (2 Backend, 2 Frontend, 1 UI)
-* US Client Interactions
+## 👨🏻‍💻 Technical Experience
 
+**Technical Lead** @ [Vistaar Digital Communications Pvt Ltd](https://vistaardigital.com/) _(Feb 2020 - Present)_<br>
+A Service based company serving Digital Services to US Clients & Pharma Industries (India).
 
-__Projects :__
-- WeOne (Android/iOS App)
-- Slingshot (https://www.slingshotlearn.com)
+* Leading a team of 5 people (2 Backend, 2 Frontend, 1 Mobile)
+  * Managing Scrum Activities
+  * Tasks Assignments & Conducting Doubt Solving Sessions
+  * Code Reviews (Quality & Performance)
+  * Managing Code Pushes, Github Branching Model, CI/CD, Server Setup & Deployments
+  * Client Interactions
 
----
+**Senior Software Engineer** @ [Vistaar Digital Communications Pvt Ltd](https://vistaardigital.com/) _(Feb 2018 - Jan 2020)_<br>
+A Service based company serving Digital Services to US Clients & Indian Pharma Industries.
 
-__Senior Software Engineer @ Vistaar Digital Communications Pvt. Ltd.__<br/>
-Feb 2018 - Jan 2020<br/>
+* Worked on many different technologies to build a websites & products.
+* DevOps Activities (Setup Server, Project Environments on Linode & AWS)
+* **Technologies used:** PHP, Laravel, MySQL, Node.js, Angular, Express, MongoDB, React, Ionic, Vis.js, Python, Django.
+* Projects:
+	* [Enablr](https://enablrclm.com) (eDetailing Application for Pharma Industries)
+	* [Slingshot](https://www.slingshotlearn.com/) (Test preparation application for JEE and MHCET students)
+	* [Kirkus Reviews](https://www.kirkusreviews.com/) (Book Reviews Writing & Publishing Website)
+	* [CanMan](https://github.com/dr5hn/canman) (Canvas Project Management Application *Confidential)
+	* [SafeQR](https://play.google.com/store/apps/details?id=com.vistaardigital.safeqrindia) (Companion app to store your vehicle details and documents inside a QR)
+	* [TheGreatNext](https://www.thegreatnext.com/) (Adventure travel website)
+	* [Outperform](https://outperformdemo.teneo.com/) (Baseball [MLB League] Game Data Visualisation Dashboard for AB InBev *Confidential)
 
-__Projects:__
-- Kirkus (https://www.kirkusreviews.com/)
-- FCMCanvas (Confidential)
-- SafeQR (Android App)
-- SeasonalRoots (https://www.seasonalroots.com/)
-- Enablr (eDetailing Application for Pharma Industries)
+**Web Developer** @ [Adevole](http://www.adevole.com/) _(Jun 2017 - Jan 2018)_ <br/>
+Digital agency focused on providing web services to entrepreneurs.
 
----
+* Built many websites. [See all Projects](https://github.com/dr5hn/projects)
+* Converted many websites from HTML to Wordpress. [See all Projects](https://github.com/dr5hn/projects)
+* **Technologies used:** PHP, Laravel, MySQL, Wordpress, Codeigniter
+* **API Integrations:** Google Adwords, Adsense, Leadsquared, Moodle, Webedify, Cashfree, Jumia, Facebook, Timaticweb(IATA)
 
-__Web Developer @ Adevole__<br/>
-June 2017 - Jan 2018 <br/>
+**Freelance Web Developer** _(Jun 2015 - May 2017)_<br/>
 
-__Projects:__
-- Econolytics - Job Marketplace
-- LivingLiquids - Custom Wordpress REST API Routes for Mobile App
-- HireAVilla - Villa Booking Portal
-- FILA India - Shopping Website using Wordpress & WooCommerce
-- HTMLtoWordpress - Conversion of HTML Templates to Wordpress Themes for Small Websites.
-- Third Party API Integrations - Google Adwords, Adsense, Leadsquared, Moodle, Webedify, Cashfree, Jumia, Facebook, Timaticweb(IATA)
+* Created few static & wordpress websites.
 
----
-__Freelance Web Developer__<br/>
-June 2015 - May 2017 <br/>
+**Other** _(Jun 2011 - May 2015)_<br/>
 
-Projects:
-- Created few static & wordpress websites.
-
----
-__June 2011 - May 2015__ <br/>
-Took 4 years off to raise a financial condition of family.
-
-## Education
-2014 - 2017<br/>
-__Master of Computer Application__ <br/>
-IGNOU University<br/>
----
-2008 - 2011<br/>
-__Bachelor of Science (IT)__ <br/>
-Mumbai University
-
-## Open Source Projects
-- ILoveJSON (https://www.ilovejson.com)
-- CountryStateCity Database (https://github.com/dr5hn/countries-states-cities-database)
-- Meetings Keeper
-
-## Contact
-__Phone:__ +91 9029208698 <br/>
-__Email:__ gadadarshan@gmail.com <br/>
-__Location:__ Mumbai, Maharashtra, India <br/>
-__Github:__ dr5hn
+* Took 4 years off to raise a financial condition of family.
