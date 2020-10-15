@@ -36,15 +36,15 @@ A Service based company serving Digital Services to US Clients & Indian Pharma I
 **Web Developer** @ [Adevole](http://www.adevole.com/) _(Jun 2017 - Jan 2018)_ <br/>
 Digital agency focused on providing web services to entrepreneurs.
 
-* Built many websites. [See all Projects »](https://github.com/dr5hn/projects)
-* Converted many websites from HTML to Wordpress. [See all Projects »](https://github.com/dr5hn/projects)
+* Built many websites. [See all Projects »](./projects.md)
+* Converted many websites from HTML to Wordpress. [See all Projects »](./projects.md)
 * **Technologies used:** Core PHP, Laravel, MySQL, Wordpress & Codeigniter
 * **API Integrations:** Google Adwords, Adsense, Leadsquared, Moodle, Webedify, Cashfree, Jumia, Facebook, Timaticweb(IATA)
 	<br><br>
 
 **Freelance Web Developer** _(Jun 2015 - May 2017)_<br/>
 
-* Created few static & wordpress websites. [See all Projects »](https://github.com/dr5hn/projects)
+* Created few static & wordpress websites. [See all Projects »](./projects.md)
 	<br><br>
 
 ## 📌 Open Source
