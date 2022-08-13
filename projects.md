@@ -22,16 +22,16 @@ List of Projects i worked on so far.
 * [csc-api](https://github.com/dr5hn/csc-api) - API for countries-states-cities-database - Built with Lumen *Private
 
 ## MEAN / MERN
-* [Slingshot](https://www.slingshotlearn.com/) (Test preparation application for JEE and MHCET students)
-* [Vis-Board](https://github.com/dr5hn/vis-board) (Data Visualisation Dashboard for *Confidential) - Built with Mongo, Express, Angular & Node.js
-* [WeOne](https://www.weoneapp.com) Micro Earning Platform from Advertisements - Built with Mongo, Strapi, Node.js, Neo4J, React & Flutter
+* Slingshot (Test preparation application for JEE and MHCET students) *MVP
+* [Vis-Board](https://github.com/dr5hn/vis-board) (Data Visualisation Dashboard - Built with Mongo, Express, Angular & Node.js) *Confidential
+* WeOne (Micro Earning Platform from Advertisements - Built with Mongo, Strapi, Node.js, Neo4J, React & Flutter) *MVP
 
 ## HTML to Wordpress
 * [B N Jewellers](http://www.bnjewellers.in/)
 * [Swadhaar FinAccess](http://www.swadhaar.org/)
 * [IVY Pro School](https://ivyproschool.com/)
 * [Sun Capital Services](https://suncapitalservices.co.in/)
-* [RBL Finserve](https://rblfinserve.com/)
+* [RBL Finserve](https://www.rblfinserve.com/)
 
 ## Wordpress
 * [My Mountains](https://my-mountains.ch/)
