@@ -14,7 +14,7 @@ List of Projects i worked on so far.
 
 ## Laravel / LAMP / LEMP
 * [Enablr](https://enablrclm.com) (eDetailing Application for Pharma Industries)
-* [CanMan](https://github.com/dr5hn/canman) (Canvas Project Management Application *Confidential)
+* [CanMan](https://github.com/dr5hn/canman) (Canvas Project Management Application) *Confidential
 * [TheGreatNext](https://www.thegreatnext.com/) (Adventure travel website)
 * [parcelg](https://github.com/dr5hn/parcelg) - ParcelG Admin APP with API - Built with Infyom Laravel Generator
 * [courierman](https://github.com/webgeeks-in/courierman) - Courier Management System - Built with Laravel
@@ -43,8 +43,7 @@ List of Projects i worked on so far.
 * [Kerala Ayurved](https://keralaayurved.com/)
 
 ## WooCommerce
-* [The Little Bauble Box](https://www.thelittlebaublebox.com/)
-* [Platinum Jewellery](https://platinumjewelry.com/)
+* Confidential
 
 ## Codeigniter
 * [Media Maggi Tutorials](http://adevole.com/clients/mediamaggi/tuition/)
@@ -88,7 +87,7 @@ List of Projects i worked on so far.
 * [Kirkus Reviews](https://www.kirkusreviews.com/) (Book Reviews Writing & Publishing Website) - Built with Django, Python & MySQL
 
 ## Drupal
-* [Nom-Nom](http://nom-nom.stage.bwm.com/) School Lunch Providers - Built with Drupal 9.x
+* Nom-Nom - School Lunch Providers - Built with Drupal 9.x
 
 ## Shell Script / Github Actions
 * [backup.sh](https://github.com/dr5hn/backup.sh) - Backup MySQL & MongoDB | Bash Shell Script | Email Reports
