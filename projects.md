@@ -5,12 +5,16 @@ List of Projects i worked on so far.
 ## Skills
 | Key  | Value |
 | ------------- | ------------- |
-| Technologies   | _(Proficient)_: PHP, NodeJS, AngularJS _(Familiar)_: ReactJS, Python, Dart, Android |
+| Technologies   | _(Proficient)_: PHP, NodeJS, TypeScript _(Familiar)_: AngularJS, ReactJS, Python, Dart, Android |
 | Database  | _(Proficient)_: MySQL, MongoDB, Redis, _(Familiar)_: PostgreSQL  |
 | Framework  | Laravel, Lumen, Ionic, Django, Next.js, Flutter |
-| CMS  | Wordpress, Shopify, Drupal, Strapi  |
-| DevOps  | Linode, AWS, Docker, Heroku, Vercel, Netlify  |
-| CI/CD  | Jenkins, CircleCI, Github Actions  |
+| Testing Frameworks  | Cypress, Pest, Helium, Selenium, Unit Testing, API Testing |
+| CSS Frameworks | Tailwind, UiKit, Bootstrap, Foundation, Bulma |
+| Build Tools | Webpack, Laravel Mix, Roots Bud, Babel, Grunt/Gulp, Bower |
+| Package Managers | npm, yarn, composer, bower, gem, pip, brew, yum  |
+| CMS  | Wordpress, Shopify, Drupal, Strapi, Directus  |
+| DevOps  | Linode, AWS, Docker, Heroku, Vercel, Netlify, Kinsta, Cloudways  |
+| CI/CD  | Jenkins, CircleCI, Github Actions & Bitbucket Pipelines  |
 
 ## Laravel / LAMP / LEMP
 * [Enablr](https://enablrclm.com) (eDetailing Application for Pharma Industries)
@@ -41,15 +45,21 @@ List of Projects i worked on so far.
 * [CashE](https://www.cashe.co.in/)
 * [Tridhaatu](https://tridhaatu.com/)
 * [Kerala Ayurved](https://keralaayurved.com/)
+* Windrush Car Storage: Car storage management system integration.
+* G13+: Developed an online platform with enhanced PHP and JavaScript.
+* Agasco: Efficient service portal development.
 
 ## WooCommerce
 * Confidential
+* Sky Garden: Integration of advanced features and optimizations.
+* Indulge Brownies: E-commerce functionalities and user experience enhancements.
 
 ## Codeigniter
 * [Media Maggi Tutorials](http://adevole.com/clients/mediamaggi/tuition/)
 
 ## Core PHP
-* [Econolytics](https://www.econolytics.in/) - Analyst Job Portal
+* Just Fabrics - The largest Fabrics Designer in the UK.
+* Econolytics - Analyst Job Portal
 - [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 
 🌍 World countries, states/regions, cities in JSON, SQL, XML, PLIST, YAML and CSV.
 
@@ -95,6 +105,8 @@ List of Projects i worked on so far.
 
 
 ## API's Integrations
+* Hubspot
+* Stripe
 * Wordpress REST API
 * Leadsquared
 * Shopify
@@ -116,9 +128,7 @@ List of Projects i worked on so far.
 
 ## HTML Websites
 * [Perfect Forwarders](http://www.perfectforwarders.com/)
-* [Leroy Networks](http://leroynetworks.com/)
-* [TSS Software](http://tsssoftware.com/)
+* [Leroy Networks](http://l3networks.in/)
 * [Rae ISP](http://raeisp.com/)
-* [Hostingros](https://hostingros.com/)
 
 [« Back to Resume](./README.md)
