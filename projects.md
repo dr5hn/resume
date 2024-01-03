@@ -105,6 +105,8 @@ List of Projects i worked on so far.
 
 
 ## API's Integrations
+* Hubspot
+* Stripe
 * Wordpress REST API
 * Leadsquared
 * Shopify
@@ -126,9 +128,7 @@ List of Projects i worked on so far.
 
 ## HTML Websites
 * [Perfect Forwarders](http://www.perfectforwarders.com/)
-* [Leroy Networks](http://leroynetworks.com/)
-* [TSS Software](http://tsssoftware.com/)
+* [Leroy Networks](http://l3networks.in/)
 * [Rae ISP](http://raeisp.com/)
-* [Hostingros](https://hostingros.com/)
 
 [« Back to Resume](./README.md)
