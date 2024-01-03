@@ -5,7 +5,18 @@ _Full Stack Software developer (and sometimes still an OpenSource Contributor) b
 
 ## 👨🏻‍💻 Technical Experience
 
-**Technical Lead** @ [Vistaar Digital Communications Pvt Ltd](https://vistaardigital.com/) _(Feb 2020 - Present)_<br>
+**Senior Full Stack Developer** @ [SOZO Design](https://sozodesign.co.uk/) _(Feb 2021 - Present)_<br>
+An award-winning web design agency for 20+ years, from our base in Cheltenham and office in London, our digital services help clients across the UK.
+
+* Pioneered automation processes within the team, boosting overall productivity.
+* Integrated various technologies such as Algolia, Sentry, Hubspot, and Stripe, showcasing versatility and technical proficiency.
+* Implemented Cypress Testing, significantly improving code quality and reducing bugs.
+* Actively engaged in debugging and problem-solving, aiding team efficiency.
+* Led the successful migration of the WP Cluster to Kinsta, enhancing site performance and security.
+* Initiated improvements to the WP Base theme and WP Management (Bulk site manager).
+<br><br>
+
+**Technical Lead** @ [Vistaar Digital Communications Pvt Ltd](https://vistaardigital.com/) _(Feb 2020 - Jan 2021)_<br>
 A Service based company serving Digital Services to US Clients & Pharma Industries (India).
 
 * Leading a team of 5 people (2 Backend, 2 Frontend, 1 Mobile)
