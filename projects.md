@@ -1,20 +1,121 @@
 [« Back to Resume](./README.md)
-# Projects 
+# Projects
 List of Projects i worked on so far.
 
 ## Skills
 | Key  | Value |
 | ------------- | ------------- |
-| Technologies   | _(Proficient)_: PHP, NodeJS, TypeScript _(Familiar)_: AngularJS, ReactJS, Python, Dart, Android |
-| Database  | _(Proficient)_: MySQL, MongoDB, Redis, _(Familiar)_: PostgreSQL  |
-| Framework  | Laravel, Lumen, Ionic, Django, Next.js, Flutter |
-| Testing Frameworks  | Cypress, Pest, Helium, Selenium, Unit Testing, API Testing |
-| CSS Frameworks | Tailwind, UiKit, Bootstrap, Foundation, Bulma |
-| Build Tools | Webpack, Laravel Mix, Roots Bud, Babel, Grunt/Gulp, Bower |
-| Package Managers | npm, yarn, composer, bower, gem, pip, brew, yum  |
-| CMS  | Wordpress, Shopify, Drupal, Strapi, Directus  |
-| DevOps  | Linode, AWS, Docker, Heroku, Vercel, Netlify, Kinsta, Cloudways  |
-| CI/CD  | Jenkins, CircleCI, Github Actions & Bitbucket Pipelines  |
+| Backend   | _(Proficient)_: PHP 8, Laravel, Node.js _(Familiar)_: Python, Django, Express.js |
+| Frontend  | _(Proficient)_: JavaScript/TypeScript, Alpine.js, jQuery _(Familiar)_: React.js, Angular |
+| Mobile Development | _(Familiar)_: Flutter, Dart, Ionic Framework, Android SDK |
+| Database  | _(Proficient)_: MySQL, MongoDB, Redis _(Familiar)_: PostgreSQL, Elasticsearch |
+| Development Tools | Git, VS Code, Postman, Docker, Webpack, Babel |
+| Testing Tools | _(Proficient)_: Cypress, PHPUnit _(Familiar)_: Pest, Selenium, Jest |
+| CSS & UI  | _(Proficient)_: Tailwind CSS, UiKit, SASS _(Familiar)_: Bootstrap, Foundation, Bulma |
+| Build Tools | _(Proficient)_: Laravel Mix, Webpack _(Familiar)_: Roots Bud, Grunt, Gulp, Vite |
+| Package Managers | Composer, npm, yarn, pip, brew |
+| CMS Platforms | _(Proficient)_: WordPress, WooCommerce _(Familiar)_: Shopify, Drupal, Strapi |
+| DevOps & Cloud | _(Proficient)_: Kinsta, Cloudways, Github Actions _(Familiar)_: AWS, Linode, Docker |
+| CI/CD  | Github Actions, Bitbucket Pipelines, Jenkins, CircleCI |
+| APIs & Integration | REST APIs, OAuth, SAML, Payment Gateways, Social Media APIs |
+| Performance | Web Vitals, Caching Strategies, SEO Optimization, Load Testing |
+| Security | Authentication Systems, XSS Prevention, CSRF Protection, Security Headers |
+
+## SOZO Design Projects
+
+### Major Website Developments
+
+#### E-commerce Projects
+* **Sky Garden**
+   * Implemented advanced Pallet Calculator
+   * Enhanced WooCommerce functionality
+   * Optimized site performance
+* **Indulge Brownies**
+   * Developed complete e-commerce solution
+   * Implemented custom product management
+   * Enhanced user experience features
+* **Just Fabrics**
+   * Integrated Algolia Sort functionality
+   * Developed contracts management system
+   * Enhanced security implementations
+
+#### Corporate Websites
+* **Windrush Car Storage**
+   * Achieved 100% SEO score
+   * Implemented car storage management system
+   * Optimized website performance
+* **Medicair**
+   * Managed phase-wise launch
+   * Integrated multiple third-party services
+   * Implemented custom solutions
+* **G13+**
+   * Enhanced PHP and JavaScript functionality
+   * Developed custom features
+   * Improved user interface
+
+#### Service Portals
+* **Agasco**
+   * Developed efficient service portal
+   * Implemented customer management system
+   * Enhanced service booking functionality
+
+### Technical Implementations
+
+#### Integration Projects
+* **PLH**
+   * Implemented Clerk Integration
+   * Solved SPAM issues with woo-recaptcha v3
+   * Enhanced security measures
+* **OSN**
+   * Integrated Hubspot
+   * Implemented PT-X Direct Debit
+   * Enhanced communication systems
+* **TOSN**
+   * Integrated Stripe payment system
+   * Implemented RSS Feed functionality
+   * Enhanced user management
+
+#### Infrastructure Projects
+* **Platform Migrations**
+   * Led WP Cluster to Kinsta migration
+   * Managed Cloudways migration
+   * Guided Github migration
+* **Testing Implementations**
+   * Set up Cypress Testing framework
+   * Implemented automated testing
+   * Enhanced quality assurance processes
+
+### Innovation Projects
+
+#### Custom Solutions
+* **McCarthy**
+   * Architected skip booking plugin
+   * Implemented custom booking management
+   * Enhanced user interface
+* **EZI Klamp**
+   * Replaced YITH Quote plugin
+   * Developed core solution
+   * Improved functionality
+
+#### Performance Optimization
+* **Base Theme Development**
+   * Built fresh base theme using Radicle
+   * Integrated SOZOUi
+   * Enhanced Sozo WP Core
+
+### System Enhancements
+
+#### Management Tools
+* **WP Management Portal**
+   * Enhanced scraper functionality
+   * Improved filters system
+   * Optimized performance
+
+#### Monitoring Systems
+* **Error Tracking**
+   * Implemented Sentry
+   * Enhanced error logging
+   * Improved debugging capabilities
 
 ## Laravel / LAMP / LEMP
 * [Enablr](https://enablrclm.com) (eDetailing Application for Pharma Industries)
@@ -60,12 +161,12 @@ List of Projects i worked on so far.
 ## Core PHP
 * Just Fabrics - The largest Fabrics Designer in the UK.
 * Econolytics - Analyst Job Portal
-- [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 
+* [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) -
 🌍 World countries, states/regions, cities in JSON, SQL, XML, PLIST, YAML and CSV.
 
 ## Python/Django
 * [Kirkus Reviews](https://www.kirkusreviews.com/) (Book Reviews Writing & Publishing Website)
-	
+
 ## Ionic
 * [SafeQR](https://play.google.com/store/apps/details?id=com.vistaardigital.safeqrindia) (Companion app to store your vehicle details and documents inside a QR)
 
@@ -112,7 +213,7 @@ List of Projects i worked on so far.
 * Shopify
 * Cashfree
 * Razorpay
-* Google Adsense & Analytics 
+* Google Adsense & Analytics
 * TimaticWeb 2(IATA)
 * Moodle
 * Sendgrid
