@@ -35,7 +35,7 @@ List of Projects i worked on so far.
    * Design configuration extraction and web-to-Figma conversion workflows
    * Design system analysis: font sizing, line heights, component sizing, SVG standards
 * **AI Skills Architecture**
-   * Global vs project-specific skills for WordPress (Radical) and Shopify
+   * Global vs project-specific skills for WordPress (Radicle) and Shopify
    * Frontend/backend agent specialisation with role-specific documentation
    * Published to GitHub (sozo-design/ai-agent-docs)
 * **Vector Database Research**
