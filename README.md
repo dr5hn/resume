@@ -107,7 +107,7 @@ A widely adopted open source geo-data ecosystem (9.3k+ stars, 3k+ forks) coverin
 - [csc-export-tool](https://github.com/dr5hn/csc-export-tool) - One-time export service with freemium credit-based system - [export.countrystatecity.in](https://export.countrystatecity.in). Built with Express.js, MongoDB (Mongoose), Redis, Passport (GitHub OAuth), DodoPayments, JSZip, Winston, Sentry.
 - [csc-changelog](https://github.com/dr5hn/csc-changelog) - Automated changelog tracking 157k+ changes - [changelog.countrystatecity.in](https://changelog.countrystatecity.in). Built with HTML, CSS, JavaScript, JSON.
 - [@countrystatecity/countries](https://www.npmjs.com/package/@countrystatecity/countries) / [@countrystatecity/timezones](https://www.npmjs.com/package/@countrystatecity/timezones) - npm packages. Built with TypeScript, tsup, Vitest.
-- [countrystatecity-pypi](https://pypi.org/project/countrystatecity-countries/) - Python package. Built with Pydantic, pytest, mypy, ruff.
+- [countrystatecity-countries](https://pypi.org/project/countrystatecity-countries/) - Python package. Built with Pydantic, pytest, mypy, ruff.
 
 **Country State City Encyclopedia** - [countrystatecity.org](https://countrystatecity.org)
 
