@@ -5,7 +5,21 @@ _Full Stack Software developer (and sometimes still an OpenSource Contributor) b
 
 ## 👨🏻‍💻 Technical Experience
 
-**Technical Lead** @ [Vistaar Digital Communications Pvt Ltd](https://vistaardigital.com/) _(Feb 2020 - Present)_<br>
+**Senior Full Stack Developer** @ [SOZO Design](https://sozodesign.co.uk/) _(Feb 2021 - Present)_<br>
+An award-winning web design agency for 20+ years, from our base in Cheltenham and office in London, our digital services help clients across the UK.
+
+* Launched and maintained multiple high-profile e-commerce and corporate websites
+* Pioneered automation processes improving team productivity
+* Led major technical implementations including Cypress Testing, Sentry integration, and Github migration
+* Mentored team members and provided technical leadership
+* Integrated various technologies such as Algolia, Sentry, Hubspot, and Stripe, showcasing versatility and technical proficiency.
+* Led the successful migration of the WP Cluster to Kinsta, enhancing site performance and security.
+* Initiated improvements to the WP Base theme and WP Management (Bulk site manager).
+* Enhanced frontend capabilities with Alpine.js and Tailwind CSS implementations
+* Established and optimized Github Actions after leading migration from Bitbucket
+<br><br>
+
+**Technical Lead** @ [Vistaar Digital Communications Pvt Ltd](https://vistaardigital.com/) _(Feb 2020 - Jan 2021)_<br>
 A Service based company serving Digital Services to US Clients & Pharma Industries (India).
 
 * Leading a team of 5 people (2 Backend, 2 Frontend, 1 Mobile)
@@ -43,7 +57,7 @@ Digital agency focused on providing web services to entrepreneurs.
 
 **Projects**
 
-- [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 
+- [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) -
 🌍 World countries, states/regions, cities in JSON, SQL, XML, PLIST, YAML and CSV.
 - [csc-api](https://github.com/dr5hn/csc-api) - API for countries-states-cities-database - Built with Lumen *Private
 - [csc-website](https://github.com/dr5hn/csc-website) - Country State City API Docs - Official Website - Built with Docusaurus 2
@@ -61,7 +75,7 @@ Digital agency focused on providing web services to entrepreneurs.
 - [iLoveJSON](https://github.com/ilovejson/ilovejson) - Online JSON Tools for JSON Lovers - Built with Next.js
 - [backup-action](https://github.com/valerianpereira/backup-action) - 🗄️ Github Action to backup MySQL, MongoDB and PostgreSQL databases
 	<br><br>
-	
+
 ## 👨🏻‍🎓 Education
 
 **Master of Computer Application**<br>
