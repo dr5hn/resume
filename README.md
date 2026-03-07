@@ -23,7 +23,7 @@ _Promoted from Senior Full Stack Developer (2021-2024) to Head of AI & Innovatio
 * Integrated Figma MCP with Claude Code for automated design-to-code workflows with technology detection (Tailwind, React, HTML, Blade)
 * Researched vector database architecture (Pinecone) for intelligent search and multi-LLM strategies (GPT, Claude, Gemini, Copilot)
 * Created AI skills architecture: global vs project-specific skills for WordPress (Radicle) and Shopify, enabling specialised agent workflows
-* Published AI agent documentation and skills to GitHub (sozo-design/ai-agent-docs)
+* Published AI agent documentation and skills to GitHub
 * Nominated for Employee of the Year Award
 
 **Technical Leadership & Architecture (2021-2026)**
@@ -31,7 +31,7 @@ _Promoted from Senior Full Stack Developer (2021-2024) to Head of AI & Innovatio
 * Built Schneider Electric / DistributorIQ interactive prototype with GitHub Actions CI/CD on Vercel
 * Delivered 10+ client projects including Inspirational Group, Gala Hospitality (ZOHO CRM), Solton Manor (calculator), Postsaver (WooCommerce v10 upgrade), and McCarthy Marland
 * Built the Radicle-based WordPress framework adopted across the entire team, standardising development on Tailwind CSS
-* Created Teamwork CLI (@sozo-design/teamwork-cli): npm package replacing scattered scripts for project and desk management
+* Created Teamwork CLI (teamwork-cli): npm package replacing scattered scripts for project and desk management
 * Released HTML Forms Akismet Plugin for spam protection
 * Led design system standardisation: font sizing, line heights, component sizing, SVG specifications, and CSS configuration standards
 
