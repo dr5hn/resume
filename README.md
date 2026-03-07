@@ -20,7 +20,7 @@ _Promoted from Senior Full Stack Developer (2021-2024) to Head of AI & Innovatio
 * Measured and documented team productivity gains: 15-40% time savings on block development, 60-80% on documentation through AI tool adoption
 * Integrated Figma MCP with Claude Code for automated design-to-code workflows with technology detection (Tailwind, React, HTML, Blade)
 * Researched vector database architecture (Pinecone) for intelligent search and multi-LLM strategies (GPT, Claude, Gemini, Copilot)
-* Created AI skills architecture: global vs project-specific skills for WordPress (Radical) and Shopify, enabling specialised agent workflows
+* Created AI skills architecture: global vs project-specific skills for WordPress (Radicle) and Shopify, enabling specialised agent workflows
 * Published AI agent documentation and skills to GitHub (sozo-design/ai-agent-docs)
 * Nominated for Employee of the Year Award
 
