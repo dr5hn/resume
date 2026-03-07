@@ -24,7 +24,7 @@ _AI & Innovation_
 - Documented measurable team productivity gains: 15-40% on block development, 60-80% on documentation through AI adoption
 - Integrated Figma MCP with Claude Code enabling automated design-to-code workflows with technology detection
 - Researched vector database architecture (Pinecone) for intelligent search and multi-LLM strategies
-- Created AI skills architecture: global vs project-specific skills for WordPress (Radical) and Shopify
+- Created AI skills architecture: global vs project-specific skills for WordPress (Radicle) and Shopify
 - Published AI agent documentation and skills to GitHub (sozo-design/ai-agent-docs)
 
 _Project Delivery_
