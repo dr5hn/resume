@@ -29,20 +29,11 @@ _AI & Innovation_
 - Created AI skills architecture: global vs project-specific skills for WordPress (Radicle) and Shopify
 - Published AI agent documentation and skills to GitHub (sozo-design/ai-agent-docs)
 
-_Project Delivery_
-- WoodScanner v2: White label implementation with dynamic styling (CSS variables + ACF + shell scripts), seller onboarding, client training, multi-language support
-- Schneider Electric / DistributorIQ: Interactive prototype with GitHub Actions CI/CD on Vercel
-- Solton Manor: Calculator feature with PDF quote generator and CRM integration
-- Inspirational Group: Blog import, block development, and full site build
-- Gala Hospitality: ZOHO CRM integration and live deployment
-- Postsaver: QBC migration (US to UK), WooCommerce v10 upgrade across both sites
-
 _Technical Initiatives_
 - Built Teamwork CLI (@sozo-design/teamwork-cli): npm package for project and desk management
 - Released HTML Forms Akismet Plugin v1.0.1 for spam protection
 - Led design system standardisation: fonts, line heights, component sizing, SVG specs, CSS configuration
 - Established Figma MCP integration with automatic technology detection (Tailwind, React, HTML, Blade)
-- Webtoffee GDPR migration guide (v2 to v3)
 
 _Recognition_
 - Nominated for Employee of the Year Award
