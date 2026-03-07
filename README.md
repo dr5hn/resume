@@ -39,15 +39,12 @@ _Promoted from Senior Full Stack Developer (2021-2024) to Head of AI & Innovatio
 * Led migration from Bitbucket to GitHub and established GitHub Actions workflows across 50+ plugins
 * Built automation tools: plugin deactivation monitoring with Slack alerts, Satis hooks automation, StatusCake/Uptime Robot management
 * Migrated WP Cluster to Kinsta, improving site performance and security
-* Integrated Algolia, Sentry, Hubspot, Stripe, Klarna, and Sirv across multiple client sites
-* Established Cypress and Playwright testing frameworks
+* Established Cypress and Playwright testing frameworks across the team
 
 **Team & Mentoring (2021-2026)**
-* Primary technical resource for the India-based team (4 developers), filtering queries and providing architectural guidance before escalation
-* Led weekly WP team meeting presentations on AI tools, development workflows, and technical deep-dives
-* Conducted client training sessions with recorded video guides
+* Primary technical resource for the India-based team (4 developers), providing architectural guidance before escalation
 * Mentored team members on Claude Code, Figma MCP, AI tool integration, and debugging practices
-<br><br>
+<br>
 
 **Technical Lead** @ [Vistaar Digital Communications Pvt Ltd](https://vistaardigital.com/) _(Feb 2020 - Jan 2021)_<br>
 Service-based company serving US clients and Indian pharma industries.
@@ -57,7 +54,7 @@ Service-based company serving US clients and Indian pharma industries.
 * Streamlined Git branching model across dev, staging, and release environments with naming conventions and rebase strategy
 * Reduced debugging time by 50% through structured training sessions on efficient debugging practices
 * Guided the team on reusable, optimised, and maintainable code through regular code reviews
-<br><br>
+<br>
 
 **Senior Software Engineer** @ [Vistaar Digital Communications Pvt Ltd](https://vistaardigital.com/) _(Feb 2018 - Jan 2020)_<br>
 Service-based company serving US clients and Indian pharma industries.
@@ -65,21 +62,19 @@ Service-based company serving US clients and Indian pharma industries.
 * Built products across multiple technology stacks: Laravel, Node.js, React, Angular, Flutter, Django
 * DevOps: server setup and project environments on Linode & AWS, Dockerised dev environments
 * Key projects: WeOne (micro-earning platform with Neo4j graph algorithms), Slingshot (test prep PWA), Enablr (pharma eDetailing)
-* [See all Projects and Achievements](./achievements.md)
-<br><br>
+<br>
 
-**Web Developer** @ [Adevole](http://www.adevole.com/) _(Jun 2017 - Jan 2018)_ <br/>
+**Web Developer** @ Adevole _(Jun 2017 - Jan 2018)_ <br>
 Digital agency focused on providing web services to entrepreneurs.
 
 * Built and converted multiple websites using PHP, Laravel, WordPress, and Codeigniter
 * API integrations: Google Adwords, Adsense, Leadsquared, Moodle, Cashfree, Jumia, Facebook, TimaticWeb (IATA)
-* [See all Projects](./projects.md)
-<br><br>
+<br>
 
-**Freelance Web Developer** _(Jun 2015 - May 2017)_<br/>
+**Freelance Web Developer** _(Jun 2015 - May 2017)_<br>
 
-* Created static and WordPress websites for various clients. [See all Projects](./projects.md)
-<br><br>
+* Created static and WordPress websites for various clients
+<br>
 
 ## Skills
 
@@ -150,7 +145,12 @@ A widely adopted open source geo-data ecosystem (9.3k+ stars, 3k+ forks) coverin
 - [courierman](https://github.com/webgeeks-in/courierman) - Courier Management System - Built with Laravel
 - [free2lance](https://github.com/webgeeks-in/free2lance) - Freelance Project Management Portal
 - [who-is](https://github.com/dr5hn/who-is) - Alexa Skill for domain info lookup
-<br><br>
+<br>
+
+## Further Reading
+
+- [All Projects](./projects.md) - Complete list of projects by technology and category
+- [Achievements](./achievements.md) - Detailed achievements by company and project
 
 ## Education
 

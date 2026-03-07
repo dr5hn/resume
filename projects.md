@@ -1,30 +1,7 @@
 [« Back to Resume](./README.md)
 # Projects
-List of Projects i worked on so far.
 
-## Skills
-| Category | Technologies |
-| --- | --- |
-| AI - Concepts | AI Agent Development, RAG Architecture, Prompt Engineering, Multi-Agent Orchestration, Vector Search, Embeddings, Fine-tuning Awareness, AI Evaluation & Observability |
-| AI - Tools & Platforms | Claude Code, Cursor, n8n (AI Workflow Automation), OpenAI Assistants API, Supabase (Vector Storage), Tavily (Web Research), MCP (Model Context Protocol) |
-| AI - Models & APIs | OpenAI (GPT-5.2, GPT-4.1 Mini, Assistants API), Claude (Anthropic), Gemini (Google), GitHub Copilot |
-| Backend | _(Proficient)_: PHP 8, Laravel, Node.js, Python _(Familiar)_: Django, Express.js, FastAPI |
-| Frontend | _(Proficient)_: JavaScript/TypeScript, React.js, Next.js, Alpine.js, jQuery _(Familiar)_: Angular, Vue.js |
-| Frontend Libraries | TanStack (Query, Table), Zustand, React Hook Form, Recharts, Three.js/React Three Fiber, Motion, Radix UI, Shadcn UI, Lucide Icons |
-| Mobile | _(Familiar)_: Flutter, Dart, Ionic Framework, Android SDK |
-| Databases | _(Proficient)_: MySQL, MongoDB, Redis _(Familiar)_: PostgreSQL, SQLite, Elasticsearch, Neo4j |
-| Vector & AI Databases | Supabase (pgvector), Pinecone |
-| ORM & Data | Prisma, Mongoose, Pydantic, Zod |
-| DevOps & Cloud | _(Proficient)_: GitHub Actions, Linode, Kinsta, Cloudways, Docker _(Familiar)_: AWS, Google Cloud, Vercel, Netlify |
-| CI/CD | GitHub Actions, Bitbucket Pipelines, Jenkins, CircleCI |
-| Testing | _(Proficient)_: Cypress, Playwright, PHPUnit _(Familiar)_: Pest, Selenium, Jest, Vitest |
-| CMS & E-commerce | _(Proficient)_: WordPress, WooCommerce, Radicle (Bedrock) _(Familiar)_: Shopify, Drupal, Strapi |
-| CSS & UI | _(Proficient)_: Tailwind CSS, UIKit, SASS _(Familiar)_: Bootstrap, Foundation, Bulma |
-| Build Tools | Vite, Webpack, Laravel Mix, Roots Bud, Composer, npm, yarn, pip, pnpm, bun |
-| APIs & Integrations | REST APIs, OAuth, SAML, Figma API, Google Drive API, Airtable, Slack API, Gravityforms, Hubspot, Stripe, Klarna, DodoPayments, Algolia, Sentry, Tavily, Sendgrid, MSG91, AWS SES/SNS |
-| Documentation | Mintlify, MDX, Storybook |
-| Performance | Web Vitals, Caching Strategies (Redis, Memcached), SEO Optimisation, Load Testing |
-| Security | Authentication Systems, XSS Prevention, CSRF Protection, Security Headers |
+List of projects I worked on so far. For skills, see the [main resume](./README.md#skills).
 
 ## AI & Innovation Projects
 
@@ -95,137 +72,33 @@ List of Projects i worked on so far.
 ### Major Website Developments
 
 #### E-commerce Projects
-* **Sky Garden**
-   * Implemented advanced Pallet Calculator
-   * Enhanced WooCommerce functionality
-   * Optimized site performance
-* **Indulge Brownies**
-   * Developed complete e-commerce solution
-   * Implemented custom product management
-   * Enhanced user experience features
-* **Just Fabrics**
-   * Integrated Algolia Sort functionality
-   * Developed contracts management system
-   * Enhanced security implementations
+* **Sky Garden** - Advanced Pallet Calculator, WooCommerce enhancements, performance optimisation
+* **Indulge Brownies** - Complete e-commerce solution with custom product management
+* **Just Fabrics** - Algolia Sort integration, contracts management system, security enhancements
 
 #### Corporate Websites
-* **Windrush Car Storage**
-   * Achieved 100% SEO score
-   * Implemented car storage management system
-   * Optimized website performance
-* **Medicair**
-   * Managed phase-wise launch
-   * Integrated multiple third-party services
-   * Implemented custom solutions
-* **G13+**
-   * Enhanced PHP and JavaScript functionality
-   * Developed custom features
-   * Improved user interface
+* **Windrush Car Storage** - Achieved 100% SEO score, car storage management system
+* **Medicair** - Phase-wise launch, third-party service integrations
+* **G13+** - PHP and JavaScript enhancements, custom features
 
 #### Service Portals
-* **Agasco**
-   * Developed efficient service portal
-   * Implemented customer management system
-   * Enhanced service booking functionality
+* **Agasco** - Service portal with customer management and booking functionality
 
 ### Technical Implementations
 
 #### Integration Projects
-* **PLH**
-   * Implemented Clerk Integration
-   * Solved SPAM issues with woo-recaptcha v3
-   * Enhanced security measures
-* **OSN**
-   * Integrated Hubspot
-   * Implemented PT-X Direct Debit
-   * Enhanced communication systems
-* **TOSN**
-   * Integrated Stripe payment system
-   * Implemented RSS Feed functionality
-   * Enhanced user management
+* **PLH** - Clerk Integration, woo-recaptcha v3 for spam prevention
+* **OSN** - Hubspot integration, PT-X Direct Debit
+* **TOSN** - Stripe payment system, RSS Feed functionality
 
 #### Infrastructure Projects
-* **Platform Migrations**
-   * Led WP Cluster to Kinsta migration
-   * Managed Cloudways migration
-   * Guided Github migration
-* **Testing Implementations**
-   * Set up Cypress Testing framework
-   * Implemented automated testing
-   * Enhanced quality assurance processes
+* **Platform Migrations** - WP Cluster to Kinsta, Cloudways migration, Bitbucket to GitHub migration
+* **Testing** - Cypress and Playwright testing frameworks, automated QA processes
 
 ### Innovation Projects
-
-#### Custom Solutions
-* **McCarthy**
-   * Architected skip booking plugin
-   * Implemented custom booking management
-   * Enhanced user interface
-* **EZI Klamp**
-   * Replaced YITH Quote plugin
-   * Developed core solution
-   * Improved functionality
-
-#### Performance Optimization
-* **Base Theme Development**
-   * Built fresh base theme using Radicle
-   * Integrated SOZOUi
-   * Enhanced Sozo WP Core
-
-### System Enhancements
-
-#### Management Tools
-* **WP Management Portal**
-   * Enhanced scraper functionality
-   * Improved filters system
-   * Optimized performance
-
-#### Monitoring Systems
-* **Error Tracking**
-   * Implemented Sentry
-   * Enhanced error logging
-   * Improved debugging capabilities
-
-## Laravel / LAMP / LEMP
-* [Enablr](https://enablrclm.com) (eDetailing Application for Pharma Industries)
-* [CanMan](https://github.com/dr5hn/canman) (Canvas Project Management Application) *Confidential
-* [TheGreatNext](https://www.thegreatnext.com/) (Adventure travel website)
-* [parcelg](https://github.com/dr5hn/parcelg) - ParcelG Admin APP with API - Built with Infyom Laravel Generator
-* [courierman](https://github.com/webgeeks-in/courierman) - Courier Management System - Built with Laravel
-* [free2lance](https://github.com/webgeeks-in/free2lance) - Freelance Project Management Portal
-* [csc-api](https://github.com/dr5hn/csc-api) - API for countries-states-cities-database - Built with Lumen *Private
-
-## MEAN / MERN
-* Slingshot (Test preparation application for JEE and MHCET students) *MVP
-* [Vis-Board](https://github.com/dr5hn/vis-board) (Data Visualisation Dashboard - Built with Mongo, Express, Angular & Node.js) *Confidential
-* WeOne (Micro Earning Platform from Advertisements - Built with Mongo, Strapi, Node.js, Neo4J, React & Flutter) *MVP
-
-## HTML to Wordpress
-* [B N Jewellers](http://www.bnjewellers.in/)
-* [Swadhaar FinAccess](http://www.swadhaar.org/)
-* [IVY Pro School](https://ivyproschool.com/)
-* [Sun Capital Services](https://suncapitalservices.co.in/)
-* [RBL Finserve](https://www.rblfinserve.com/)
-
-## Wordpress
-* [My Mountains](https://my-mountains.ch/)
-* [Shri Rupa Manjree Institute](https://srmi.iskcondesiretree.com/)
-* [Embee](https://embee.co.in/)
-* [Arphi](http://arphi.com/)
-* [CashE](https://www.cashe.co.in/)
-* [Tridhaatu](https://tridhaatu.com/)
-* [Kerala Ayurved](https://keralaayurved.com/)
-* Windrush Car Storage: Car storage management system integration.
-* G13+: Developed an online platform with enhanced PHP and JavaScript.
-* Agasco: Efficient service portal development.
-
-## WooCommerce
-* Confidential
-* Sky Garden: Integration of advanced features and optimizations.
-* Indulge Brownies: E-commerce functionalities and user experience enhancements.
-
-## Codeigniter
-* [Media Maggi Tutorials](http://adevole.com/clients/mediamaggi/tuition/)
+* **McCarthy** - Skip booking plugin architecture
+* **EZI Klamp** - Custom quote solution replacing YITH Quote plugin
+* **Base Theme** - Radicle-based theme with SOZOUi and Sozo WP Core
 
 ## Open Source Products
 
@@ -276,8 +149,22 @@ A widely adopted open source geo-data ecosystem (9.3k+ stars, 3k+ forks) coverin
 
 ## Other Projects by Technology
 
+### Laravel / LAMP / LEMP
+* Enablr (eDetailing Application for Pharma Industries)
+* [CanMan](https://github.com/dr5hn/canman) (Canvas Project Management Application) *Confidential
+* TheGreatNext (Adventure travel website)
+* [parcelg](https://github.com/dr5hn/parcelg) - ParcelG Admin APP with API - Built with Infyom Laravel Generator
+* [courierman](https://github.com/webgeeks-in/courierman) - Courier Management System - Built with Laravel
+* [free2lance](https://github.com/webgeeks-in/free2lance) - Freelance Project Management Portal
+* [csc-api](https://github.com/dr5hn/csc-api) - API for countries-states-cities-database - Built with Lumen *Private
+
+### MEAN / MERN
+* Slingshot (Test preparation application for JEE and MHCET students) *MVP
+* [Vis-Board](https://github.com/dr5hn/vis-board) (Data Visualisation Dashboard - Built with MongoDB, Express, Angular & Node.js) *Confidential
+* WeOne (Micro Earning Platform from Advertisements - Built with MongoDB, Strapi, Node.js, Neo4j, React & Flutter) *MVP
+
 ### Core PHP
-* Just Fabrics - The largest Fabrics Designer in the UK.
+* Just Fabrics - The largest Fabrics Designer in the UK
 * Econolytics - Analyst Job Portal
 
 ### Python / Django
@@ -285,7 +172,7 @@ A widely adopted open source geo-data ecosystem (9.3k+ stars, 3k+ forks) coverin
 * [clockify\_bulk\_insert](https://github.com/dr5hn/clockify_bulk_insert) - Automate bulk time entry insertion in Clockify
 
 ### Ionic
-* [SafeQR](https://play.google.com/store/apps/details?id=com.vistaardigital.safeqrindia) - Companion app to store vehicle details and documents inside a QR
+* SafeQR - Companion app to store vehicle details and documents inside a QR
 
 ### Shopify Apps
 * [Automated SMS Plugin for Shopify](https://apps.shopify.com/sms-marketing-automation)
@@ -310,12 +197,37 @@ A widely adopted open source geo-data ecosystem (9.3k+ stars, 3k+ forks) coverin
 * [nginx-conf](https://github.com/dr5hn/nginx-conf) - NginX configurations for Laravel, Node.js, WordPress, Angular & Strapi
 * [server-setup](https://github.com/dr5hn/server-setup) - Server setup guide for Ubuntu
 
+### HTML to WordPress
+* [B N Jewellers](http://www.bnjewellers.in/)
+* [Swadhaar FinAccess](http://www.swadhaar.org/)
+* [IVY Pro School](https://ivyproschool.com/)
+* [Sun Capital Services](https://suncapitalservices.co.in/)
+* [RBL Finserve](https://www.rblfinserve.com/)
+
+### WordPress
+* [My Mountains](https://my-mountains.ch/)
+* [Shri Rupa Manjree Institute](https://srmi.iskcondesiretree.com/)
+* [Embee](https://embee.co.in/)
+* [Arphi](http://arphi.com/)
+* [CashE](https://www.cashe.co.in/)
+* [Tridhaatu](https://tridhaatu.com/)
+* [Kerala Ayurved](https://keralaayurved.com/)
+* Windrush Car Storage
+* G13+
+* Agasco
+
+### WooCommerce
+* Sky Garden
+* Indulge Brownies
+
+### Codeigniter
+* Media Maggi Tutorials
+
 ### API Integrations
 Hubspot, Stripe, WordPress REST API, Leadsquared, Shopify, Cashfree, Razorpay, Google Adsense & Analytics, TimaticWeb (IATA), Moodle, Sendgrid, MSG91, AWS SES & SNS, PayUMoney, Facebook, Twitter, GitHub, Webedify, Authorize.net, and more.
 
 ### HTML Websites
 * [Perfect Forwarders](http://www.perfectforwarders.com/)
-* [Leroy Networks](http://l3networks.in/)
-* [Rae ISP](http://raeisp.com/)
+* Rae ISP
 
 [« Back to Resume](./README.md)
