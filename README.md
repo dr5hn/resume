@@ -15,8 +15,10 @@ Award-winning digital agency based in Cheltenham and London, serving clients acr
 _Promoted from Senior Full Stack Developer (2021-2024) to Head of AI & Innovations (2025), leading AI strategy, technical architecture, and innovation across the development team._
 
 **AI & Innovation (2025-2026)**
-* Built an internal AI briefing agent with PDF analysis, web research integration, interactive workflows, and configurable system prompts
-* Designed and implemented AI tool standardisation framework: formal approval process, privacy guidelines, evaluation periods, and team adoption strategy
+* Built an internal AI briefing agent with PDF analysis, web research (Tavily), interactive workflows, SSE streaming, and multi-format export (PDF/DOCX). Built with Next.js 16, React 19, OpenAI Assistants API, Supabase, Tailwind CSS
+* Built a RAG-based AI chatbot WordPress plugin with n8n document ingestion pipeline (Google Drive, PDF extraction, text splitting, embedding generation, Supabase vector storage), OpenAI chat pipeline, and file type routing
+* Designed and built WellChild Awards AI workflow system in n8n: multi-agent eligibility assessment, quality scoring (0-100 framework), Gravityforms webhook intake, Airtable data storage, Slack notifications, and structured output parsing. Powered by OpenAI GPT-5.2
+* Designed AI tool standardisation framework: formal approval process, privacy guidelines, evaluation periods, and team adoption strategy
 * Measured and documented team productivity gains: 15-40% time savings on block development, 60-80% on documentation through AI tool adoption
 * Integrated Figma MCP with Claude Code for automated design-to-code workflows with technology detection (Tailwind, React, HTML, Blade)
 * Researched vector database architecture (Pinecone) for intelligent search and multi-LLM strategies (GPT, Claude, Gemini, Copilot)
@@ -83,16 +85,23 @@ Digital agency focused on providing web services to entrepreneurs.
 
 | Category | Technologies |
 | --- | --- |
-| **AI & LLM** | AI Agent Development, RAG Architecture, Prompt Engineering, MCP (Model Context Protocol), Claude Code, Cursor, Vector Databases (Pinecone), Multi-LLM Evaluation (GPT, Claude, Gemini, Copilot) |
-| **Backend** | _(Proficient)_: PHP 8, Laravel, Node.js _(Familiar)_: Python, Django, Express.js |
-| **Frontend** | _(Proficient)_: JavaScript/TypeScript, Alpine.js, jQuery _(Familiar)_: React.js, Angular |
+| **AI - Concepts** | AI Agent Development, RAG Architecture, Prompt Engineering, Multi-Agent Orchestration, Vector Search, Embeddings, Fine-tuning Awareness, AI Evaluation & Observability |
+| **AI - Tools & Platforms** | Claude Code, Cursor, n8n (AI Workflow Automation), OpenAI Assistants API, Supabase (Vector Storage), Tavily (Web Research), MCP (Model Context Protocol), GitHub Copilot |
+| **AI - Models & APIs** | OpenAI (GPT-5.2, GPT-4.1 Mini, Assistants API), Claude (Anthropic), Gemini (Google), GitHub Copilot |
+| **Backend** | _(Proficient)_: PHP 8, Laravel, Node.js, Python _(Familiar)_: Django, Express.js, FastAPI |
+| **Frontend** | _(Proficient)_: JavaScript/TypeScript, React.js, Next.js, Alpine.js, jQuery _(Familiar)_: Angular, Vue.js |
+| **Frontend Libraries** | TanStack (Query, Table), Zustand, React Hook Form, Recharts, Three.js/React Three Fiber, Motion, Radix UI, Shadcn UI, Lucide Icons |
 | **Mobile** | _(Familiar)_: Flutter, Dart, Ionic Framework, Android SDK |
-| **Databases** | _(Proficient)_: MySQL, MongoDB, Redis _(Familiar)_: PostgreSQL, Elasticsearch, Neo4j, Pinecone |
-| **DevOps & Cloud** | _(Proficient)_: GitHub Actions, Kinsta, Cloudways, Docker _(Familiar)_: AWS, Linode, Vercel |
-| **Testing** | _(Proficient)_: Cypress, Playwright, PHPUnit _(Familiar)_: Pest, Selenium, Jest |
+| **Databases** | _(Proficient)_: MySQL, MongoDB, Redis _(Familiar)_: PostgreSQL, SQLite, Elasticsearch, Neo4j |
+| **Vector & AI Databases** | Supabase (pgvector), Pinecone |
+| **ORM & Data** | Prisma, Mongoose, Pydantic, Zod |
+| **DevOps & Cloud** | _(Proficient)_: GitHub Actions, Linode, Kinsta, Cloudways, Docker _(Familiar)_: AWS, Google Cloud, Vercel, Netlify |
+| **Testing** | _(Proficient)_: Playwright, Cypress, Pest, PHPUnit _(Familiar)_: Selenium, Jest, Vitest |
 | **CMS & E-commerce** | _(Proficient)_: WordPress, WooCommerce, Radicle (Bedrock) _(Familiar)_: Shopify, Drupal, Strapi |
 | **CSS & UI** | _(Proficient)_: Tailwind CSS, UIKit, SASS _(Familiar)_: Bootstrap, Foundation, Bulma |
-| **Build Tools** | Vite, Webpack, Laravel Mix, Roots Bud, Composer, npm, yarn, pip |
+| **Build Tools** | Vite, Webpack, Laravel Mix, Roots Bud, Composer, npm, yarn, pip, pnpm, bun |
+| **APIs & Integrations** | REST/GraphQL APIs, OAuth, SAML, Figma API, Google Drive API, Airtable, Slack API, Gravityforms, Hubspot, Stripe, Klarna, DodoPayments, Algolia, Sentry, Tavily, Sendgrid, MSG91, AWS SES/SNS, WhatsApp, Telegram, Zapier |
+| **Documentation** | Mintlify, MDX, Storybook, Docusaurus |
 
 ## Open Source & Products
 

@@ -5,27 +5,44 @@ List of Projects i worked on so far.
 ## Skills
 | Category | Technologies |
 | --- | --- |
-| AI & LLM | AI Agent Development, RAG Architecture, Prompt Engineering, MCP (Model Context Protocol), Claude Code, Cursor, Vector Databases (Pinecone), Multi-LLM Evaluation (GPT, Claude, Gemini, Copilot) |
-| Backend | _(Proficient)_: PHP 8, Laravel, Node.js _(Familiar)_: Python, Django, Express.js |
-| Frontend | _(Proficient)_: JavaScript/TypeScript, Alpine.js, jQuery _(Familiar)_: React.js, Angular |
+| AI - Concepts | AI Agent Development, RAG Architecture, Prompt Engineering, Multi-Agent Orchestration, Vector Search, Embeddings, Fine-tuning Awareness, AI Evaluation & Observability |
+| AI - Tools & Platforms | Claude Code, Cursor, n8n (AI Workflow Automation), OpenAI Assistants API, Supabase (Vector Storage), Tavily (Web Research), MCP (Model Context Protocol) |
+| AI - Models & APIs | OpenAI (GPT-5.2, GPT-4.1 Mini, Assistants API), Claude (Anthropic), Gemini (Google), GitHub Copilot |
+| Backend | _(Proficient)_: PHP 8, Laravel, Node.js, Python _(Familiar)_: Django, Express.js, FastAPI |
+| Frontend | _(Proficient)_: JavaScript/TypeScript, React.js, Next.js, Alpine.js, jQuery _(Familiar)_: Angular, Vue.js |
+| Frontend Libraries | TanStack (Query, Table), Zustand, React Hook Form, Recharts, Three.js/React Three Fiber, Motion, Radix UI, Shadcn UI, Lucide Icons |
 | Mobile | _(Familiar)_: Flutter, Dart, Ionic Framework, Android SDK |
-| Databases | _(Proficient)_: MySQL, MongoDB, Redis _(Familiar)_: PostgreSQL, Elasticsearch, Neo4j, Pinecone |
-| DevOps & Cloud | _(Proficient)_: GitHub Actions, Kinsta, Cloudways, Docker _(Familiar)_: AWS, Linode, Vercel |
+| Databases | _(Proficient)_: MySQL, MongoDB, Redis _(Familiar)_: PostgreSQL, SQLite, Elasticsearch, Neo4j |
+| Vector & AI Databases | Supabase (pgvector), Pinecone |
+| ORM & Data | Prisma, Mongoose, Pydantic, Zod |
+| DevOps & Cloud | _(Proficient)_: GitHub Actions, Linode, Kinsta, Cloudways, Docker _(Familiar)_: AWS, Google Cloud, Vercel, Netlify |
 | CI/CD | GitHub Actions, Bitbucket Pipelines, Jenkins, CircleCI |
-| Testing | _(Proficient)_: Cypress, Playwright, PHPUnit _(Familiar)_: Pest, Selenium, Jest |
+| Testing | _(Proficient)_: Cypress, Playwright, PHPUnit _(Familiar)_: Pest, Selenium, Jest, Vitest |
 | CMS & E-commerce | _(Proficient)_: WordPress, WooCommerce, Radicle (Bedrock) _(Familiar)_: Shopify, Drupal, Strapi |
 | CSS & UI | _(Proficient)_: Tailwind CSS, UIKit, SASS _(Familiar)_: Bootstrap, Foundation, Bulma |
-| Build Tools | Vite, Webpack, Laravel Mix, Roots Bud, Composer, npm, yarn, pip |
-| APIs & Integration | REST APIs, OAuth, SAML, Payment Gateways, Social Media APIs, LLM APIs |
+| Build Tools | Vite, Webpack, Laravel Mix, Roots Bud, Composer, npm, yarn, pip, pnpm, bun |
+| APIs & Integrations | REST APIs, OAuth, SAML, Figma API, Google Drive API, Airtable, Slack API, Gravityforms, Hubspot, Stripe, Klarna, DodoPayments, Algolia, Sentry, Tavily, Sendgrid, MSG91, AWS SES/SNS |
+| Documentation | Mintlify, MDX, Storybook |
 | Performance | Web Vitals, Caching Strategies (Redis, Memcached), SEO Optimisation, Load Testing |
 | Security | Authentication Systems, XSS Prevention, CSRF Protection, Security Headers |
 
 ## AI & Innovation Projects
 
 * **SOZO AI Briefing Agent**
-   * Internal AI product with PDF analysis, web research integration, interactive question-based workflows
-   * Configurable system prompts, lead scoring capabilities, and export functionality
-   * Built with LLM APIs, vector search, and custom prompt engineering
+   * Internal AI product with PDF analysis, web research (Tavily), interactive question-based workflows, SSE streaming
+   * Configurable system prompts, lead scoring capabilities, multi-format export (PDF/DOCX)
+   * Built with Next.js 16, React 19, OpenAI Assistants API, Supabase, Tavily, Tailwind CSS
+* **SOZO AI Chatbot** (WordPress Plugin + n8n Pipeline)
+   * RAG-based chat plugin with n8n document ingestion workflow
+   * n8n pipeline: Google Drive knowledge folder sync, file type routing (PDFs vs Google Docs/Word/text), PDF extraction (100-page limit), text splitting, embedding generation, batch insertion to Supabase vector storage, processed file management
+   * Built with PHP 8.2+, WordPress Plugin API, OpenAI API, Supabase (vector storage), Google Drive API, n8n
+* **WellChild Awards AI Workflow** (n8n)
+   * Multi-agent AI workflow system for charity award nomination processing
+   * Eligibility Agent: 4-step assessment (medical eligibility, safeguarding, category fit, UK location)
+   * Scoring Agent: Quality scoring framework (0-100) across impact, evidence quality, category alignment, narrative strength
+   * Gravityforms webhook intake, Airtable data storage, Google Docs prompt management, Slack notifications
+   * Structured output parsing, batch processing with loop control, anonymisation
+   * Built with n8n, OpenAI GPT-5.2, OpenAI 4.1 Mini, Airtable, Google Docs, Slack
 * **AI Tool Standardisation Framework**
    * Formal approval process with team voting, manager sign-off, and evaluation periods
    * Privacy guidelines, evidence collection processes, and productivity measurement
