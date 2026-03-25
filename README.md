@@ -123,15 +123,11 @@ A widely adopted open source geo-data ecosystem (9.3k+ stars, 3k+ forks) coverin
 
 **Step Up Grow** - Investment Portal
 
-- [step-up-grow](https://github.com/dr5hn/step-up-grow) - SIP and one-time investment management portal. Client built with React, TypeScript, Shadcn UI, TanStack Query, Recharts, Tailwind CSS. API built with Node.js, Express.js, TypeScript, Prisma (PostgreSQL), PDFKit.
-
-**SkyWork Borivali** - [skyworkborivali.com](https://skyworkborivali.com)
-
-- [skywork](https://github.com/dr5hn/skywork) - Premium co-working space website with responsive design, image gallery, and Google Maps integration. Built with HTML, CSS, JavaScript, Bootstrap, jQuery, Swiper.js.
+- [step-up-grow](#) - SIP and one-time investment management portal. Client built with React, TypeScript, Shadcn UI, TanStack Query, Recharts, Tailwind CSS. API built with Node.js, Express.js, TypeScript, Prisma (PostgreSQL), PDFKit.
 
 **Developer Tools & Automation**
 
-- [cc-account-switcher](https://github.com/dr5hn/cc-account-switcher) - Multi-account switcher for Claude Code with keychain integration (macOS, Linux, WSL). Built with Shell/Bash.
+- [ccm](https://github.com/dr5hn/ccm) - Multi-account switcher for Claude Code with keychain integration (macOS, Linux, WSL). Built with Shell/Bash.
 - [backup-action](https://github.com/valerianpereira/backup-action) - GitHub Action to backup MySQL, MongoDB and PostgreSQL databases
 - [backup.sh](https://github.com/dr5hn/backup.sh) - Backup MySQL & MongoDB shell script with email reports
 - [nginx-conf](https://github.com/dr5hn/nginx-conf) - NginX configurations for Laravel, Node.js, WordPress, Angular & Strapi
