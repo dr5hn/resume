@@ -13,13 +13,6 @@ List of projects I worked on so far. For skills, see the [main resume](./README.
    * RAG-based chat plugin with n8n document ingestion workflow
    * n8n pipeline: Google Drive knowledge folder sync, file type routing (PDFs vs Google Docs/Word/text), PDF extraction (100-page limit), text splitting, embedding generation, batch insertion to Supabase vector storage, processed file management
    * Built with PHP 8.2+, WordPress Plugin API, OpenAI API, Supabase (vector storage), Google Drive API, n8n
-* **WellChild Awards AI Workflow** (n8n)
-   * Multi-agent AI workflow system for charity award nomination processing
-   * Eligibility Agent: 4-step assessment (medical eligibility, safeguarding, category fit, UK location)
-   * Scoring Agent: Quality scoring framework (0-100) across impact, evidence quality, category alignment, narrative strength
-   * Gravityforms webhook intake, Airtable data storage, Google Docs prompt management, Slack notifications
-   * Structured output parsing, batch processing with loop control, anonymisation
-   * Built with n8n, OpenAI GPT-5.2, OpenAI 4.1 Mini, Airtable, Google Docs, Slack
 * **AI Tool Standardisation Framework**
    * Formal approval process with team voting, manager sign-off, and evaluation periods
    * Privacy guidelines, evidence collection processes, and productivity measurement
@@ -103,10 +96,10 @@ List of projects I worked on so far. For skills, see the [main resume](./README.
 ## Open Source Products
 
 ### Country State City - Geo-Data Platform
-A widely adopted open source geo-data ecosystem (9.3k+ stars, 3k+ forks) covering 250 countries, 5,299 states, and 153,765 cities. Freemium API, packages, and developer tooling.
+A widely adopted open source geo-data ecosystem (9.3k+ stars, 3k+ forks, 127 contributors) serving 40K+ developers worldwide with 1.2B+ monthly API requests. 250 countries, 5,299 states, and 153,765 cities in 11 data formats. Freemium API, export tool, packages, and developer tooling.
 
 * **Core Database** - [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
-   * Dataset in 11+ formats: JSON, MySQL, PostgreSQL, SQLite, MongoDB, XML, YAML, CSV, GeoJSON, TOON
+   * Dataset in 11 formats: JSON, CSV, XML, YAML, SQL, PostgreSQL, SQLite, SQL Server, MongoDB, DuckDB, GeoJSON
    * Built with PHP, Python, MySQL, GitHub Actions
 * **API Platform** - [csc-app](https://github.com/dr5hn/csc-app) - [app.countrystatecity.in](https://app.countrystatecity.in)
    * Freemium subscription API with dashboard, API key generation, and usage management
@@ -117,8 +110,11 @@ A widely adopted open source geo-data ecosystem (9.3k+ stars, 3k+ forks) coverin
 * **Documentation** - [csc-docs](https://github.com/dr5hn/csc-docs) - [docs.countrystatecity.in](https://docs.countrystatecity.in)
    * Built with Mintlify and MDX
 * **Export Tool** - [csc-export-tool](https://github.com/dr5hn/csc-export-tool) - [export.countrystatecity.in](https://export.countrystatecity.in)
-   * One-time export service with freemium credit-based system
-   * Built with Express.js, MongoDB (Mongoose), Redis, Passport (GitHub OAuth), DodoPayments, JSZip, Winston, Sentry
+   * Custom geo-data export platform with 8 output formats (JSON, CSV, XML, YAML, MySQL, PostgreSQL, SQL Server, SQLite3)
+   * Field-level selection (18 city fields, 18 state fields, 26 country fields), credit-based pricing, ZIP downloads with metadata
+   * Dual auth (GitHub OAuth + Magic Link), DodoPayments integration, auto-expiring exports (30 days)
+   * Backend: Express.js, MongoDB (Mongoose), Redis, Passport, DodoPayments, JSZip, Winston, Sentry, PM2
+   * Frontend: React 19, React Router v7, Tailwind CSS, Recharts, Lucide, Sentry
 * **Changelog System** - [csc-changelog](https://github.com/dr5hn/csc-changelog) - [changelog.countrystatecity.in](https://changelog.countrystatecity.in)
    * Automated change tracking system monitoring 157k+ changes across countries, states, and cities
    * Individual country changelogs, statistics dashboard, JSON API access, 24-month retention
@@ -134,7 +130,9 @@ A widely adopted open source geo-data ecosystem (9.3k+ stars, 3k+ forks) coverin
    * Built with Next.js 16, React 19, Tailwind CSS, Lucide Icons
 
 ### iLoveJSON - [ilovejson.com](https://ilovejson.com)
-* [iLoveJSON](https://github.com/dr5hn/ilovejson) - JSON utility tool for converting JSON to any format (CSV, HTML, XML, TOML, and more). Inspired by iLovePDF.
+* [iLoveJSON](https://github.com/dr5hn/ilovejson) - 28+ JSON tools in one place. Inspired by iLovePDF.
+   * 20 bidirectional converters: CSV, YAML, XML, TypeScript, PHP, SQL, Markdown, HTML, TOML, Excel
+   * 8 utility tools: Beautify, Compress, Validate, Viewer, Diff, Merge, Query (JMESPath), Faker
    * Built with Next.js, NextAuth, Prisma (PostgreSQL), Radix UI, Tailwind CSS, TypeScript, Docker
 
 ### Step Up Grow - Investment Portal

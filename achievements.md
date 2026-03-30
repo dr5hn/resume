@@ -21,7 +21,6 @@ Award-winning web design agency - Leading WordPress and Digital Solutions.
 _AI & Innovation_
 - Built internal AI briefing agent with PDF analysis, web research (Tavily), SSE streaming, and multi-format export. Built with Next.js 16, OpenAI Assistants API, Supabase
 - Built RAG-based AI chatbot WordPress plugin with n8n document ingestion pipeline (Google Drive sync, PDF extraction, text splitting, embedding generation, Supabase vector storage)
-- Designed and built WellChild Awards AI workflow in n8n: multi-agent eligibility assessment, quality scoring (0-100), Gravityforms webhook, Airtable storage, Slack notifications, powered by OpenAI GPT-5.2
 - Designed AI tool standardisation framework: formal approval process, team voting, manager sign-off, evaluation periods, and privacy guidelines
 - Documented measurable team productivity gains: 15-40% on block development, 60-80% on documentation through AI adoption
 - Integrated Figma MCP with Claude Code enabling automated design-to-code workflows with technology detection
@@ -53,7 +52,7 @@ _Recognition_
 - Processed and resolved 200+ support tickets and completed 40 development tickets
 - Launched 4 major websites and architected custom plugins including skip booking system for McCarthy
 - Led migration from Bitbucket to GitHub and established optimised GitHub Actions workflows
-- Built Radicle-based WordPress base theme with SOZOUi and Sozo WP Core, adopted across the team
+- Adopted the Radicle WordPress framework (roots.io/radicle) and built a base theme with SOZOUi and Sozo WP Core, adopted across the team
 - Enhanced Algolia security implementation for Just Fabrics
 - Integrated Clerk (PLH) and PT-X Direct Debit (OSN) systems
 - Achieved 100% SEO scoring for Windrush Car Storage through performance optimisation

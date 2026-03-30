@@ -5,7 +5,7 @@ _AI Engineer, Technical Innovation Leader & Open Source Contributor based in Mum
 
 ## About
 
-Full-stack engineer with 10+ years of experience, now specialising in AI-powered product development, technical leadership, and developer tooling. I build AI agents, design system architectures, and lead teams that ship production-grade web applications. Maintainer of [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database), a widely adopted open source geo-data resource. Passionate about translating emerging AI capabilities into practical tools and workflows that make teams more productive.
+Full-stack engineer with 10+ years of experience, now specialising in AI-powered product development, technical leadership, and developer tooling. I build AI agents, design system architectures, and lead teams that ship production-grade web applications. Maintainer of [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database), a widely adopted open source geo-data platform serving 40K+ developers worldwide with 1.2B+ monthly API requests. Passionate about translating emerging AI capabilities into practical tools and workflows that make teams more productive.
 
 ## Technical Experience
 
@@ -17,7 +17,6 @@ _Promoted from Senior Full Stack Developer (2021-2024) to Head of AI & Innovatio
 **AI & Innovation (2025-2026)**
 * Built an internal AI briefing agent with PDF analysis, web research (Tavily), interactive workflows, SSE streaming, and multi-format export (PDF/DOCX). Built with Next.js 16, React 19, OpenAI Assistants API, Supabase, Tailwind CSS
 * Built a RAG-based AI chatbot WordPress plugin with n8n document ingestion pipeline (Google Drive, PDF extraction, text splitting, embedding generation, Supabase vector storage), OpenAI chat pipeline, and file type routing
-* Designed and built WellChild Awards AI workflow system in n8n: multi-agent eligibility assessment, quality scoring (0-100 framework), Gravityforms webhook intake, Airtable data storage, Slack notifications, and structured output parsing. Powered by OpenAI GPT-5.2
 * Designed AI tool standardisation framework: formal approval process, privacy guidelines, evaluation periods, and team adoption strategy
 * Measured and documented team productivity gains: 15-40% time savings on block development, 60-80% on documentation through AI tool adoption
 * Integrated Figma MCP with Claude Code for automated design-to-code workflows with technology detection (Tailwind, React, HTML, Blade)
@@ -30,7 +29,7 @@ _Promoted from Senior Full Stack Developer (2021-2024) to Head of AI & Innovatio
 * Architected and delivered WoodScanner v2: custom marketplace with white label dynamic styling (CSS variables + ACF + shell scripts), seller onboarding, and multi-language support
 * Built Schneider Electric / DistributorIQ interactive prototype with GitHub Actions CI/CD on Vercel
 * Delivered 10+ client projects including Inspirational Group, Gala Hospitality (ZOHO CRM), Solton Manor (calculator), Postsaver (WooCommerce v10 upgrade), and McCarthy Marland
-* Built the Radicle-based WordPress framework adopted across the entire team, standardising development on Tailwind CSS
+* Adopted and implemented the Radicle WordPress framework (roots.io/radicle) across the entire team, standardising development on Tailwind CSS
 * Created Teamwork CLI (teamwork-cli): npm package replacing scattered scripts for project and desk management
 * Released HTML Forms Akismet Plugin for spam protection
 * Led design system standardisation: font sizing, line heights, component sizing, SVG specifications, and CSS configuration standards
@@ -102,13 +101,13 @@ Digital agency focused on providing web services to entrepreneurs.
 
 **Country State City - Geo-Data Platform** - [countrystatecity.in](https://countrystatecity.in)
 
-A widely adopted open source geo-data ecosystem (9.3k+ stars, 3k+ forks) covering 250 countries, 5,299 states, and 153,765 cities. Freemium API, packages, and developer tooling.
+A widely adopted open source geo-data ecosystem (9.3k+ stars, 3k+ forks, 127 contributors) serving 40K+ developers worldwide with 1.2B+ monthly API requests. 250 countries, 5,299 states, and 153,765 cities in 11 data formats. Freemium API, export tool, packages, and developer tooling.
 
-- [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - Core dataset in 11+ formats (JSON, MySQL, PostgreSQL, SQLite, MongoDB, XML, YAML, CSV, GeoJSON, TOON). Built with PHP, Python, MySQL, and GitHub Actions for automated format generation.
+- [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - Core dataset in 11 formats (JSON, CSV, XML, YAML, SQL, PostgreSQL, SQLite, SQL Server, MongoDB, DuckDB, GeoJSON). Built with PHP, Python, MySQL, and GitHub Actions for automated format generation.
 - [csc-app](https://github.com/dr5hn/csc-app) - Freemium API with dashboard, API key generation, and subscription management - [app.countrystatecity.in](https://app.countrystatecity.in). API built with Express.js, Prisma (PostgreSQL + MySQL), Bull queues, Redis, Sentry, Passport (GitHub OAuth), Zod. Frontend built with React, Vite, TypeScript, TanStack Query, Zustand, Radix UI, Recharts, Tailwind CSS.
 - [csc-website-v2](https://github.com/dr5hn/csc-website-v2) - Revamped product website - [countrystatecity.in](https://countrystatecity.in). Built with Next.js 15 (App Router), Tailwind CSS 4, Radix UI, Three.js/React Three Fiber, Motion.
 - [csc-docs](https://github.com/dr5hn/csc-docs) - API documentation - [docs.countrystatecity.in](https://docs.countrystatecity.in). Built with Mintlify and MDX.
-- [csc-export-tool](https://github.com/dr5hn/csc-export-tool) - One-time export service with freemium credit-based system - [export.countrystatecity.in](https://export.countrystatecity.in). Built with Express.js, MongoDB (Mongoose), Redis, Passport (GitHub OAuth), DodoPayments, JSZip, Winston, Sentry.
+- [csc-export-tool](https://github.com/dr5hn/csc-export-tool) - Custom geo-data export platform with 8 output formats (JSON, CSV, XML, YAML, MySQL, PostgreSQL, SQL Server, SQLite3), field-level selection, credit-based pricing, and ZIP downloads - [export.countrystatecity.in](https://export.countrystatecity.in). Backend: Express.js, MongoDB (Mongoose), Redis, Passport (GitHub OAuth + Magic Link), DodoPayments, JSZip, Winston, Sentry. Frontend: React 19, React Router v7, Tailwind CSS, Recharts, Lucide, Sentry.
 - [csc-changelog](https://github.com/dr5hn/csc-changelog) - Automated changelog tracking 157k+ changes - [changelog.countrystatecity.in](https://changelog.countrystatecity.in). Built with HTML, CSS, JavaScript, JSON.
 - [@countrystatecity/countries](https://www.npmjs.com/package/@countrystatecity/countries) / [@countrystatecity/timezones](https://www.npmjs.com/package/@countrystatecity/timezones) - npm packages. Built with TypeScript, tsup, Vitest.
 - [countrystatecity-countries](https://pypi.org/project/countrystatecity-countries/) - Python package. Built with Pydantic, pytest, mypy, ruff.
@@ -119,7 +118,7 @@ A widely adopted open source geo-data ecosystem (9.3k+ stars, 3k+ forks) coverin
 
 **iLoveJSON** - [ilovejson.com](https://ilovejson.com)
 
-- [iLoveJSON](https://github.com/dr5hn/ilovejson) - JSON utility tool for converting JSON to any format (CSV, HTML, XML, TOML, and more). Inspired by iLovePDF. Built with Next.js, NextAuth, Prisma (PostgreSQL), Radix UI, Tailwind CSS, TypeScript, Docker.
+- [iLoveJSON](https://github.com/dr5hn/ilovejson) - 28+ JSON tools: 20 bidirectional converters (CSV, YAML, XML, TypeScript, PHP, SQL, Markdown, HTML, TOML, Excel) plus 8 utilities (beautify, compress, validate, diff, merge, query, viewer, faker). Inspired by iLovePDF. Built with Next.js, NextAuth, Prisma (PostgreSQL), Radix UI, Tailwind CSS, TypeScript, Docker.
 
 **Step Up Grow** - Investment Portal
 
